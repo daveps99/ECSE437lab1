@@ -1,4 +1,5 @@
 # David Pelland-Sauve, 260960004
+# david.pelland-sauve@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
